@@ -1,17 +1,17 @@
 {
  "D": {
-  "version": "1.5.1",
-  "url": "https://github.com/EfeS7716/cadra-indir/releases/download/v1.5.1/Cadra-Design-Kurulum-1.5.1.exe",
+  "version": "1.5.2",
+  "url": "https://github.com/EfeS7716/cadra-indir/releases/download/v1.5.2/Cadra-Design-Kurulum-1.5.2.exe",
   "notes": ""
  },
  "M": {
-  "version": "1.1.1",
-  "url": "https://github.com/EfeS7716/cadra-indir/releases/download/v1.1.1/Cadra-Mobilya-Kurulum-1.1.1.exe",
+  "version": "1.1.2",
+  "url": "https://github.com/EfeS7716/cadra-indir/releases/download/v1.1.2/Cadra-Mobilya-Kurulum-1.1.2.exe",
   "notes": ""
  },
  "R": {
-  "version": "1.1.1",
-  "url": "https://github.com/EfeS7716/cadra-indir/releases/download/v1.1.1/Cadra-Render-Kurulum-1.1.1.exe",
+  "version": "1.1.2",
+  "url": "https://github.com/EfeS7716/cadra-indir/releases/download/v1.1.2/Cadra-Render-Kurulum-1.1.2.exe",
   "notes": ""
  }
 }

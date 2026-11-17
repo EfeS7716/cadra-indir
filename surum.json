@@ -1,17 +1,17 @@
 {
  "D": {
-  "version": "1.5.2",
-  "url": "https://github.com/EfeS7716/cadra-indir/releases/download/v1.5.2/Cadra-Design-Kurulum-1.5.2.exe",
-  "notes": ""
+  "version": "1.8.5",
+  "url": "https://github.com/EfeS7716/cadra-indir/releases/download/v1.8.5/Cadra-Design-Kurulum-1.8.5.exe",
+  "notes": "Akpa, PVC sistemleri, yeni ana sayfa, marka bazlı lisans (eski anahtarlar geçersiz)"
  },
  "M": {
-  "version": "1.1.2",
-  "url": "https://github.com/EfeS7716/cadra-indir/releases/download/v1.1.2/Cadra-Mobilya-Kurulum-1.1.2.exe",
+  "version": "1.1.3",
+  "url": "https://github.com/EfeS7716/cadra-indir/releases/download/v1.1.3/Cadra-Mobilya-Kurulum-1.1.3.exe",
   "notes": ""
  },
  "R": {
-  "version": "1.1.2",
-  "url": "https://github.com/EfeS7716/cadra-indir/releases/download/v1.1.2/Cadra-Render-Kurulum-1.1.2.exe",
+  "version": "1.1.3",
+  "url": "https://github.com/EfeS7716/cadra-indir/releases/download/v1.1.3/Cadra-Render-Kurulum-1.1.3.exe",
   "notes": ""
  }
 }

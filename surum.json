@@ -1,8 +1,8 @@
 {
  "D": {
-  "version": "1.8.5",
-  "url": "https://github.com/EfeS7716/cadra-indir/releases/download/v1.8.5/Cadra-Design-Kurulum-1.8.5.exe",
-  "notes": "Akpa, PVC sistemleri, yeni ana sayfa, marka bazlı lisans (eski anahtarlar geçersiz)"
+  "version": "2.5.1",
+  "url": "https://github.com/EfeS7716/cadra-indir/releases/download/v2.5.1/Cadra-Design-Kurulum-2.5.1.exe",
+  "notes": "İşçi takip artık projelerden tamamen ayrı: proje / dosya açmak işçi giriş-çıkışlarını değiştirmez, proje dosyalarına yazılmaz; her gün ayrı yedek alınır. İşçi takipte \"Yedekten geri yükle\": eski kopyalardaki giriş-çıkışları mevcut tabloya ekler. Skylight: Akpa SK65 / SK50ECO 3B gerçekçi görünüm, montaj detayı ve profil kesitleri. Çarpma kapı her zaman eşiksiz, kapı ile yer arası 25 mm."
  },
  "M": {
   "version": "1.1.3",
